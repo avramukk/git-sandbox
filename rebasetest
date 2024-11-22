@@ -1,6 +1,7 @@
-this file is test git pull rebase+morechangein this file 
+this file is test git pull rebase+localchanges 
 
 
-new line 123456
+new line 1+localchanges
 
-new line extra
+and extra line from loca  
+
